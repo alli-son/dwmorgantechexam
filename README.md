@@ -4,9 +4,10 @@ Installation:
 
 npm install
 
-# Getting Started with Create React App
+## Go to the folder of the project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Example:
+C:\Sample Folder\dwmorgantechexam
 
 ## Available Scripts
 
