@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.eye-icon {
+  float: right;
+  margin-top: -33px;
+  margin-right: 15px;
+}
