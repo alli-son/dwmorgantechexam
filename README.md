@@ -4,7 +4,7 @@ Installation:
 
 npm install
 
-## Go to the folder of the project.
+## Go to the folder of the project
 
 Example:
 C:\Sample Folder\dwmorgantechexam
