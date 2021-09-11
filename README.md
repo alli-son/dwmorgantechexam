@@ -1,3 +1,9 @@
+# Clone down this repository. You will need node and npm installed globally on your machine.
+
+Installation:
+
+npm install
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
